@@ -1,0 +1,21 @@
+{
+  "name": "Google Drive Uploader",
+  "description": "Telegram bot To upload Files To Google Drive Remotely, Check Demo @gdriveupme_bot",
+  "keywords": [
+    "telegram",
+    "Google",
+    "Drive",
+    "downloader",
+    "open",
+    "source",
+    "Files",
+    "GDrive",
+    "Bot",
+    "remote",
+    "uploader"
+  ],
+
+"success_url": "https://t.me/aryan_bots",
+  "website": "https://github.com/aryanvikash/Google-Drive-Uploader",
+  "repository": "https://github.com/aryanvikash/Google-Drive-Uploader",
+  "env": {
